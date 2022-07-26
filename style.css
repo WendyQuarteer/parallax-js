@@ -58,15 +58,27 @@ wrapper {
 }
 
 #animation{
-    position: absolute;
+    position: relative;
     z-index: 6;
     top: 460px;
     left: 50px;
 }
 
+#animation2{
+    position: relative;
+    z-index: 6;
+    bottom: 320px;
+    left: 950px;
+}
+
 #dog{
     width: 450px;
     height: 300px;
+}
+
+#parot{
+    width: 200px;
+    height: 150px;
 }
 
 
