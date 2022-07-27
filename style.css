@@ -17,7 +17,7 @@ wrapper {
     bottom: 45px;
     background-size: 100vw 100vh;
     background-repeat: repeat;
-    background-position-x: 0px;
+    /*background-position-x: 0px;*/
     background-image: url("img/beach.png");
 }
 
@@ -52,6 +52,7 @@ wrapper {
     bottom: 35px;
     width: 450px;
     height: 300px;
+    /*transition: bottom 8s ease-in-out;*/
 }
 
 #parot{
